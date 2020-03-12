@@ -1062,8 +1062,8 @@ button[disabled] {
 }
 
 .btn-light, .btn--light {
-  background-color: #e2e2e2;
-  border-color: #e2e2e2;
+  background-color: #20B08F;
+  border-color: #20B08F;
   color: #000;
 }
 
@@ -1087,9 +1087,9 @@ button[disabled] {
 .btn-ghost:hover,
 .btn--ghost:focus,
 .btn--ghost:hover {
-  background-color: #e2e2e2;
+  background-color: #20B08F;
   border-color: #000;
-  color: #000;
+  color: #;
 }
 
 .btn-link {
