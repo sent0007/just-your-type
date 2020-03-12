@@ -1,5 +1,6 @@
 html {
-  background-color: #fc8760;
+  /**background-color: #fc8760;**/
+  background: radial-gradient(#fc8760,#1EB08E);
 }
 
 h1 {
@@ -9,4 +10,24 @@ h1 {
 
 blockquote {
   font-family: "PT Serif", serif;
+}
+
+
+
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  h1,
+  p {
+    margin: 0 0 1.5rem;
+  }
+
+  .wrapper {
+    margin-top: 100px;
+  }
+
 }
