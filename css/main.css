@@ -1,8 +1,13 @@
 html {
-
+background-color: #fc8760;
 }
 
 h1 {
-  font-family: 'Prata', serif;
+  font-family: "Playfair Display", serif;
+  letter-spacing: 10px;
 
+}
+
+blockquote {
+  font-family: "PT Serif", serif;
 }
