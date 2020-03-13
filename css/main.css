@@ -11,8 +11,36 @@ blockquote {
   font-family: "PT Serif", serif;
 }
 
-.btn {
+.btn, .card-button {
   font-family: Georgia, serif;
+}
+
+.blurb {
+  font-family: "PT Serif", serif;
+}
+
+.blurb-wrapper {
+  color: #000;
+  max-width: 400px;
+  background-color: #20b08f;
+  border-radius: 5px;
+  border-right: 10px solid #60fcd8;
+  border-bottom: 10px solid #60fcd8;
+}
+
+.blurb-wrapper:hover {
+  border: 10px solid #60fcd8;
+  color: #000;
+}
+
+.card-button {
+  background-color: #20b08f;
+  color: #000;
+}
+
+.card-button:hover {
+  background-color: #20b08f;
+  color: #000;
 }
 
 @media only screen and (min-width: 60em) {
