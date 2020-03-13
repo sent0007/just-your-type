@@ -1,13 +1,5 @@
 html {
-
-  background-image:
-    radial-gradient(
-      circle closest-side,
-      #20b08f,
-      #fc8760
-    );
-
-  /*background-color: #fc8760;*/
+  background-image: radial-gradient(circle closest-side, #20b08f, #fc8760);
 }
 
 h1 {
@@ -20,7 +12,7 @@ blockquote {
 }
 
 .btn {
-  font-family: "Georgia", serif;
+  font-family: Georgia, serif;
 }
 
 @media only screen and (min-width: 60em) {
