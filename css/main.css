@@ -30,17 +30,7 @@ blockquote {
 
 .blurb-wrapper:hover {
   border: 10px solid #60fcd8;
-  color: #000;
-}
-
-.card-button {
-  background-color: #20b08f;
-  color: #000;
-}
-
-.card-button:hover {
-  background-color: #20b08f;
-  color: #000;
+  color: #fff;
 }
 
 @media only screen and (min-width: 60em) {
